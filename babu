@@ -1,0 +1,9 @@
+-- Hello World
+SELECT 'Hello World' AS message;
+
+-- Addition
+SELECT 20 + 10 AS addition;
+
+-- Subtraction
+SELECT 20 - 10 AS subtraction;
+
